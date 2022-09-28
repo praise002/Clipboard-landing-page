@@ -319,7 +319,7 @@ li{
 li:hover{
     color: var(--strong-cyan);
     cursor: pointer;
-    font-weight: 600;
+    /* font-weight: 600; */
 }
 
 .icon{
